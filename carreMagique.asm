@@ -15,6 +15,11 @@
 # Matricule: 20249713
 # Code permanent: MERW68100002 
 #
+# Auteur: Samuel Michaud
+# Courriel: samuel.michaud.1@umontreal.ca
+# Matricule: 20244446
+#
+#
 
 .data
 	valeurMinimum: .word 1
